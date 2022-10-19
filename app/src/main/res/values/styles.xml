@@ -1,0 +1,48 @@
+<resources>
+    <style name="edits">
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_marginLeft">32dp</item>
+        <item name="android:layout_marginRight">32dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:background">"#f0f0f0"</item>
+    </style>
+
+    <style name="CustomTheme" parent="android:Theme">
+        <item name="android:radioButtonStyle">@style/RadioButton</item>
+    </style>
+
+    <style name="RadioButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/radio</item>
+    </style>
+
+    <style name="AppTheme" parent="android:Theme">
+
+        <!-- For the resting Spinner style -->
+        <item name="android:spinnerItemStyle">
+            @style/spinnerItemStyle
+        </item>
+
+        <!-- For each individual Spinner list item once clicked on -->
+        <item name="android:spinnerDropDownItemStyle">
+            @style/spinnerDropDownItemStyle
+        </item>
+
+    </style>
+
+    <style name="spinnerItemStyle">
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="spinnerDropDownItemStyle">
+        <item name="android:padding">20dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio2_off.xml" value="0.20052083333333334" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio2_off_pressed.xml" value="0.20052083333333334" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio2_off_selected.xml" value="0.20052083333333334" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio2_on.xml" value="0.20052083333333334" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio2_on_pressed.xml" value="0.20052083333333334" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio2_on_selected.xml" value="0.20052083333333334" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio_off.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio_off_pressed.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio_off_selected.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio_on.xml" value="0.20625" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio_on_pressed.xml" value="0.15" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/btn_radio_on_selected.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/input_text.xml" value="0.2203125" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/drawable/radio.xml" value="0.1361111111111111" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/layout/dropdown_item.xml" value="0.18885869565217392" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/layout/selected_item.xml" value="0.1" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/WHHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1962962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
